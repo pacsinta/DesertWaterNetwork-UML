@@ -26,3 +26,9 @@ ciszternákba. Az a csapat nyer, amelyik a játék végére több vizet szerez.
 <br>
 <font size=”1”>*Bármely fent meg nem határozott vagy nem teljesen egyértelmű követelmény tetszőlegesen szabadon 
 értelmezhető. Általában célszerű az egyszerűbb megoldást választani.*</font>
+
+<br>
+<br>
+
+## Use-case diagram:
+![usecase](usecase.jpg)
